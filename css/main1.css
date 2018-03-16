@@ -1,0 +1,30 @@
+.flex{
+	display:flex;
+	border:solid;
+	flex-direction: column;
+	width:75%;
+	vertical-align: middle;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:skyblue;
+}
+h1{
+	color:red;
+text-align: center;
+}
+h2{
+	display:block;
+	background-color: #ddd;
+}
+h3{
+	display:block;
+	background-color: #ddd;
+}
+table,tr,th,td{
+	border:solid;
+	text-align: center;
+
+}
+
+
+   
